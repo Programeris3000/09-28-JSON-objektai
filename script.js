@@ -32,7 +32,7 @@
   name.innerHTML = `<strong>Name:</strong> ${object.name}`
 
   let rating = document.createElement('p')
-  rating.innerHTML = `<strong>Rating:  </strong> <strong>Stars:</strong> ${object.rating[0]} <strong>Rates:</strong> ${object.rating[1]}`
+  rating.innerHTML = `<strong>Ratings:  </strong> <strong>Stars:</strong> ${object.rating[0]} <strong>Number of ratings:</strong> ${object.rating[1]}`
 
 
   //Išleidimo data
