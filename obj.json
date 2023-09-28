@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Barbie",
+    "rating": [7.1, "335k"],
+    "released": 2023,
+    "description": "Barbie suffers a crisis that leads her to question her world and her existence.",
+    "ganres": ["Adventure", "Comedy", "Fantasy"],
+    "director": "Greta Gerwig",
+    "actors": ["Margot Robbie", "Ryan Gosling", "Issa Rae"]
+  },{
+    "name": "Stichijos",
+    "rating": [7.0, "72k"],
+    "released": 2023,
+    "description": "Follows Ember and Wade, in a city where fire-, water-, earth- and air-residents live together.",
+    "ganres": ["Animation", "Adventure", "Comedy"],
+    "director": "Peter Sohn",
+    "actors": ["John Hoberg", "Kat Likkel", "Brenda Hsueh"]
+  },{
+    "name": "Dream Scenario",
+    "rating": [7.8, "150k"],
+    "released": 2023,
+    "description": "A hapless family man finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. When his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom.",
+    "ganres": ["Adventure", "Romance", "Fantasy"],
+    "director": "Kristoffer Borgli",
+    "actors": ["Lily Bird", "Nicolas Cage", "Julianne Nicholson", "Jessica Clement"]
+  },{
+    "name": "Theater Camp",
+    "rating": [7.1, "200k"],
+    "released": 2023,
+    "description": "The eccentric staff of a rundown theater camp in upstate New York must band together with the beloved founder's bro-y son to keep the camp afloat.",
+    "ganres": ["Animation", "Comedy", "Fantasy"],
+    "director": ["Molly Gordon", "Nick Lieberman"],
+    "actors": ["Ben Platt", "Molly Gordon", "Noah Galvin", "Jimmy Tatro"]
+  },{
+    "name": "Nieko asmeniško",
+    "rating": [6.4, "350k"],
+    "released": 2023,
+    "description": "On the brink of losing her home, Maddie finds an intriguing job listing: helicopter parents looking for someone to bring their introverted 19-year-old son out of his shell before college. She has one summer to make him a man or die trying.",
+    "ganres": ["Adventure", "Comedy", "Fantasy"],
+    "director": "Gene Stupinsky",
+    "actors": ["Jennifer Lawrence", "Andrew Barth Feldman", "Laura Benanti", "Matthew Broderick"]
+  },{
+    "name": "Dumb Money",
+    "rating": [7.1, "120k"],
+    "released": 2023,
+    "description": "Dumb Money is the ultimate David vs. Goliath tale, based on the insane true story of everyday people who flipped the script on Wall Street and got rich by turning GameStop (yes, the mall videogame store) into the world's hottest company.",
+    "ganres": ["Adventure", "Fantasy"],
+    "director": "Craig Gillespie",
+    "actors": ["Paul Dano", "Pete Davidson", "Vincent D'Onofrio", "America Ferrera"]
+  },{
+    "name": "Bottoms",
+    "rating": [6.1, "50k"],
+    "released": 2020,
+    "description": "Two unpopular queer high school students start a fight club to have sex before graduation.",
+    "ganres": ["Adventure", "Comedy", "Fantasy"],
+    "director": "Emma Seligman",
+    "actors": ["Rachel Sennott", "Ayo Edebiri", "Ruby Cruz", "Havana Rose Liu"]
+  },{
+    "name": "El Conde",
+    "rating": [6.5, "75k"],
+    "released": 2023,
+    "description": "After living 250 years in this world, Augusto Pinochet, who is not dead but an aged vampire, decides to die once and for all.",
+    "ganres": ["Adventure", "Animation", "Fantasy"],
+    "director": "Pablo Larraín",
+    "actors": ["Jaime Vadell", "Gloria Münchmeyer", "Alfredo Castro", "Paula Luchsinger"]
+  },{
+    "name": "Volstryto vilkas",
+    "rating": [7.3, "5k"],
+    "released": 2021,
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "ganres": ["Biography", "Comedy", "Crime"],
+    "director": "Martin Scorsese",
+    "actors": ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie", "Matthew McConaughey"]
+  },{
+    "name": "Strays",
+    "rating": [6.3, "15k"],
+    "released": 2023,
+    "description": "An abandoned dog teams up with other strays to get revenge on his former owner.",
+    "ganres": ["Adventure", "Comedy", "Fantasy"],
+    "director": "Josh Greenbaum",
+    "actors": ["Will Ferrell", "Jamie Foxx", "Isla Fisher", "Randall Park"]
+  }
+]
