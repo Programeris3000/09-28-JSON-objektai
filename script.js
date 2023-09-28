@@ -46,7 +46,7 @@
   // Žanrų sąrašą.
   let ganresUl = document.createElement('ul')
   let ganresUlName = document.createElement('p')
-  ganresUlName.innerHTML = `<strong>Ganres: </strong>`
+  ganresUlName.innerHTML = `<strong>Genres: </strong>`
 
   object.ganres.forEach(item=>{
     let ganresLi = document.createElement('li')
